@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cartella Tombola</string>
+
+    <!-- MENU -->
+    <string name="menu_titolo">Cartella Tombola</string>
+    <string name="menu_gioca">Aggiungi Cartella</string>
+    <string name="menu_info">Mostra Cartelle</string>
+    <string name="menu_sviluppatore">Sviluppato da Fabio Savelli</string>
+
+    <!-- AGGIUNGI CARTELLA -->
+    <string name="aggiungi_cartella_titolo">Crea una cartella</string>
+    <string name="aggiungi_cartella_errore">Errore</string>
+    <string name="aggiungi_cartella_azzera">Azzera</string>
+    <string name="aggiungi_cartella_random">Genera Casuale</string>
+    <string name="aggiungi_cartella_conferma">Conferma</string>
+
+    <!-- MOSTRA CARTELLE -->
+    <string name="mostra_cartelle_titolo">Cartelle</string>
+    <string name="mostra_cartelle_cancella">Cancella</string>
+    <string name="mostra_cartelle_conferma">Conferma</string>
+    <string name="mostra_cartelle_annulla">Annulla</string>
+    <string name="mostra_cartelle_errore">Errore</string>
+    <string name="mostra_cartelle_resetta">Nuova partita</string>
+</resources>
